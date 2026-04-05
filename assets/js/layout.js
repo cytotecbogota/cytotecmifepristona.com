@@ -80,7 +80,7 @@
             /* ---- Navbar ---- */
             + '<nav class="navbar navbar-expand-xl navbar-sticky" id="primary-menu">'
             +   '<a class="navbar-brand" href="index.html">'
-            +     '<img class="logo logo-dark" src="assets/images/logo/logo-dark.svg" alt="Medisch Logo"/>'
+            +     '<img class="logo logo-dark" src="assets/images/logo/logo-dark.png" alt="Medisch Logo"/>'
             +     '<img class="logo logo-mobile" src="assets/images/logo/logo-mobile.svg" alt="Medisch Logo"/>'
             +   '</a>'
             +   '<div class="module-holder module-holder-phone">'
