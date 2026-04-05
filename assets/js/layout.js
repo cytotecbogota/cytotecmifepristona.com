@@ -21,7 +21,6 @@
     var PAGES = {
         home:    ['', 'index.html'],
         contact: ['contact.html'],
-        about:   ['page-about.html'],
         faqs:    ['page-faqs.html']
     };
 
@@ -100,10 +99,7 @@
             +         '<a href="index.html"><span>Inicio</span></a>'
             +       '</li>'
 
-            /* Sobre nosotros */
-            +       '<li class="nav-item' + isActive('about') + '" data-hover="">'
-            +         '<a href="page-about.html"><span>Sobre nosotros</span></a>'
-            +       '</li>'
+  
 
             /* Preguntas frecuentes */
             +       '<li class="nav-item' + isActive('faqs') + '" data-hover="">'
@@ -166,7 +162,6 @@
         +           '<div class="footer-widget-title"><h5>Navegación</h5></div>'
         +           '<div class="widget-content"><ul>'
         +             '<li><a href="index.html">Inicio</a></li>'
-        +             '<li><a href="page-about.html">Sobre nosotros</a></li>'
         +             '<li><a href="page-faqs.html">Preguntas frecuentes</a></li>'
         +             '<li><a href="contact.html">Contacto</a></li>'
         +           '</ul></div>'
